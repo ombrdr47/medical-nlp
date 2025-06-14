@@ -1,4 +1,3 @@
-```markdown
 # 🏥 Medical NLP Pipeline
 
 An AI system for **medical transcription**, **NLP-based summarization**, **sentiment & intent analysis**, and **SOAP‐note generation**, built with **FastAPI** (backend) and **Streamlit** (frontend). Packaged via **Docker Compose** for one-command setup.
