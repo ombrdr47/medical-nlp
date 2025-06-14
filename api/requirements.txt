@@ -1,0 +1,11 @@
+spacy==3.8.2
+transformers==4.48.0
+torch== 2.7.0
+fastapi==0.115.8
+streamlit==1.42.0
+websocket-client==1.8.0
+uvicorn==0.34.0
+scikit-learn==1.6.1
+pydantic==2.10.5
+numpy==1.26.4
+plotly

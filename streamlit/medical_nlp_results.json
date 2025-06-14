@@ -1,0 +1,578 @@
+{
+  "entities": [
+    {
+      "text": "Good morning",
+      "label": "TIME",
+      "start": 16,
+      "end": 28,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "Jones",
+      "label": "PERSON",
+      "start": 34,
+      "end": 39,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "today",
+      "label": "DATE",
+      "start": 61,
+      "end": 66,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "discomfort",
+      "label": "SYMPTOM",
+      "start": 143,
+      "end": 153,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": "C0949140"
+    },
+    {
+      "text": "last September",
+      "label": "DATE",
+      "start": 223,
+      "end": 237,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "September 1st",
+      "label": "DATE",
+      "start": 306,
+      "end": 319,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "around 12:30 in the afternoon",
+      "label": "TIME",
+      "start": 321,
+      "end": 350,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "Cheadle Hulme",
+      "label": "PERSON",
+      "start": 371,
+      "end": 384,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "Manchester",
+      "label": "PERSON",
+      "start": 388,
+      "end": 398,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "immediately",
+      "label": "TEMPORAL",
+      "start": 666,
+      "end": 677,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "head",
+      "label": "BODY_PART",
+      "start": 774,
+      "end": 778,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "pain",
+      "label": "SYMPTOM",
+      "start": 819,
+      "end": 823,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": "C0596632"
+    },
+    {
+      "text": "neck",
+      "label": "BODY_PART",
+      "start": 830,
+      "end": 834,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "back",
+      "label": "BODY_PART",
+      "start": 839,
+      "end": 843,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "right away",
+      "label": "TEMPORAL",
+      "start": 851,
+      "end": 861,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "Moss Bank",
+      "label": "ORG",
+      "start": 951,
+      "end": 960,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "The first four weeks",
+      "label": "DATE",
+      "start": 1184,
+      "end": 1204,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "neck",
+      "label": "BODY_PART",
+      "start": 1220,
+      "end": 1224,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "back",
+      "label": "BODY_PART",
+      "start": 1229,
+      "end": 1233,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "pain",
+      "label": "SYMPTOM",
+      "start": 1234,
+      "end": 1238,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": "C0596632"
+    },
+    {
+      "text": "painkillers",
+      "label": "TREATMENT",
+      "start": 1294,
+      "end": 1305,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "physiotherapy",
+      "label": "TREATMENT",
+      "start": 1390,
+      "end": 1403,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "stiffness",
+      "label": "SYMPTOM",
+      "start": 1421,
+      "end": 1430,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": "C0695628"
+    },
+    {
+      "text": "discomfort",
+      "label": "SYMPTOM",
+      "start": 1435,
+      "end": 1445,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": "C0949140"
+    },
+    {
+      "text": "pain",
+      "label": "SYMPTOM",
+      "start": 1507,
+      "end": 1511,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": "C0596632"
+    },
+    {
+      "text": "daily",
+      "label": "DATE",
+      "start": 1916,
+      "end": 1921,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "a week",
+      "label": "DATE",
+      "start": 1990,
+      "end": 1996,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "back",
+      "label": "BODY_PART",
+      "start": 2029,
+      "end": 2033,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "pain",
+      "label": "SYMPTOM",
+      "start": 2225,
+      "end": 2229,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": "C0596632"
+    },
+    {
+      "text": "Physical Examination Conducted",
+      "label": "ORG",
+      "start": 2236,
+      "end": 2266,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "neck",
+      "label": "BODY_PART",
+      "start": 2311,
+      "end": 2315,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "back",
+      "label": "BODY_PART",
+      "start": 2320,
+      "end": 2324,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "tenderness",
+      "label": "SYMPTOM",
+      "start": 2371,
+      "end": 2381,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": "C0389075"
+    },
+    {
+      "text": "spine",
+      "label": "BODY_PART",
+      "start": 2427,
+      "end": 2432,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "six months",
+      "label": "DATE",
+      "start": 2626,
+      "end": 2636,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "daily",
+      "label": "DATE",
+      "start": 2892,
+      "end": 2897,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "back",
+      "label": "BODY_PART",
+      "start": 2982,
+      "end": 2986,
+      "confidence": 0.9,
+      "normalized_form": null,
+      "umls_code": null
+    },
+    {
+      "text": "Jones",
+      "label": "PERSON",
+      "start": 3149,
+      "end": 3154,
+      "confidence": 0.8,
+      "normalized_form": null,
+      "umls_code": null
+    }
+  ],
+  "summary": {
+    "patient_name": "Jones",
+    "symptoms": [
+      "discomfort",
+      "pain",
+      "stiffness",
+      "tenderness"
+    ],
+    "diagnosis": [
+      "whiplash injury",
+      "a whiplash injury"
+    ],
+    "treatment": [
+      "painkillers",
+      "physiotherapy"
+    ],
+    "current_status": "Occasional discomfort",
+    "prognosis": "to make a full recovery within six months of the accident",
+    "timeline": {
+      "accident_date": "September 1"
+    },
+    "severity_score": 0.7
+  },
+  "sentiment_analysis": [
+    {
+      "text": "Good morning, doctor. I'm doing better, but I still have some discomfort now and then.",
+      "sentiment": {
+        "sentiment": "reassured",
+        "confidence": 0.8,
+        "intent": "reporting_symptoms",
+        "intent_confidence": 0.7,
+        "emotional_indicators": [
+          "hopeful:better"
+        ]
+      }
+    },
+    {
+      "text": "Yes, it was on September 1st, around 12:30 in the afternoon. I was driving from Cheadle Hulme to Man...",
+      "sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "intent": "reporting_symptoms",
+        "intent_confidence": 0.7,
+        "emotional_indicators": []
+      }
+    },
+    {
+      "text": "Yes, I always do.",
+      "sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "intent": "reporting_symptoms",
+        "intent_confidence": 0.7,
+        "emotional_indicators": []
+      }
+    },
+    {
+      "text": "At first, I was just shocked. But then I realized I had hit my head on the steering wheel, and I cou...",
+      "sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "intent": "reporting_symptoms",
+        "intent_confidence": 0.7,
+        "emotional_indicators": []
+      }
+    },
+    {
+      "text": "Yes, I went to Moss Bank Accident and Emergency. They checked me over and said it was a whiplash inj...",
+      "sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "intent": "reporting_symptoms",
+        "intent_confidence": 0.7,
+        "emotional_indicators": []
+      }
+    },
+    {
+      "text": "The first four weeks were rough. My neck and back pain were really bad\u2014I had trouble sleeping and ha...",
+      "sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "intent": "reporting_symptoms",
+        "intent_confidence": 0.7,
+        "emotional_indicators": [
+          "hopeful:improving",
+          "frustrated:trouble"
+        ]
+      }
+    },
+    {
+      "text": "It's not constant, but I do get occasional backaches. It's nothing like before, though.",
+      "sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "intent": "reporting_symptoms",
+        "intent_confidence": 0.7,
+        "emotional_indicators": []
+      }
+    },
+    {
+      "text": "No, nothing like that. I don't feel nervous driving, and I haven't had any emotional issues from the...",
+      "sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "intent": "reporting_symptoms",
+        "intent_confidence": 0.7,
+        "emotional_indicators": [
+          "anxious:nervous"
+        ]
+      }
+    },
+    {
+      "text": "I had to take a week off work, but after that, I was back to my usual routine. It hasn't really stop...",
+      "sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "intent": "reporting_symptoms",
+        "intent_confidence": 0.7,
+        "emotional_indicators": []
+      }
+    },
+    {
+      "text": "That's a relief!",
+      "sentiment": {
+        "sentiment": "reassured",
+        "confidence": 0.8,
+        "intent": "reporting_symptoms",
+        "intent_confidence": 0.7,
+        "emotional_indicators": [
+          "hopeful:relief"
+        ]
+      }
+    },
+    {
+      "text": "That's great to hear. So, I don't need to worry about this affecting me in the future?",
+      "sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "intent": "reporting_symptoms",
+        "intent_confidence": 0.7,
+        "emotional_indicators": []
+      }
+    },
+    {
+      "text": "Thank you, doctor. I appreciate it.",
+      "sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.75,
+        "intent": "reporting_symptoms",
+        "intent_confidence": 0.7,
+        "emotional_indicators": []
+      }
+    }
+  ],
+  "soap_note": {
+    "subjective": {
+      "chief_complaint": "good morning, doctor. i'm doing",
+      "history_of_present_illness": "Good morning, doctor. I'm doing better, but I still have some discomfort now and then. Yes, it was on September 1st, around 12:30 in the afternoon. I was driving from Cheadle Hulme to Manchester when I had to stop in traffic. Out of nowhere, another car hit me from behind, which pushed my car into the one in front. Yes, I always do.",
+      "symptoms": [
+        "discomfort",
+        "pain",
+        "stiffness",
+        "tenderness"
+      ],
+      "pain_scale": null,
+      "onset": "September 1",
+      "patient_concerns": [
+        "no, nothing like that. don't"
+      ]
+    },
+    "objective": {
+      "physical_exam": "That's encouraging. Let's go ahead and do a physical examination to check your mobility and any lingering pain.\n    [Physical Examination Conducted]",
+      "observations": "Patient appears comfortable, normal gait observed",
+      "vital_signs": "Within normal limits",
+      "imaging": "None performed",
+      "laboratory": "None performed"
+    },
+    "assessment": {
+      "diagnosis": [
+        "whiplash injury",
+        "a whiplash injury"
+      ],
+      "differential_diagnosis": [
+        "Cervical strain",
+        "Lumbar strain",
+        "Soft tissue injury"
+      ],
+      "severity": "Moderate to Severe",
+      "prognosis": "to make a full recovery within six months of the accident",
+      "clinical_impression": "Post-traumatic musculoskeletal injury with good recovery trajectory"
+    },
+    "plan": {
+      "treatment": [
+        "painkillers",
+        "physiotherapy"
+      ],
+      "medications": [
+        "OTC analgesics as needed for pain"
+      ],
+      "follow_up": "As needed if symptoms worsen",
+      "patient_education": [
+        "Continue home exercises as prescribed",
+        "Use ice/heat for symptom management",
+        "Maintain normal activities as tolerated"
+      ],
+      "referrals": [],
+      "precautions": [
+        "Return if symptoms worsen",
+        "Avoid heavy lifting for 2 weeks"
+      ]
+    },
+    "metadata": {
+      "generated_at": "2025-06-11T21:23:50.021407",
+      "conversation_length": 3225,
+      "confidence_score": 0.85,
+      "requires_review": false,
+      "icd10_codes": [
+        "S13.4",
+        "M54.2"
+      ],
+      "cpt_codes": [
+        "99213",
+        "97110"
+      ]
+    }
+  },
+  "quality_metrics": {
+    "entity_coverage": 1.0,
+    "summary_completeness": 1.0,
+    "soap_completeness": 0.9999999999999999,
+    "overall_confidence": 0.85
+  }
+}

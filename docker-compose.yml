@@ -1,0 +1,19 @@
+services:
+
+  api:
+    build:
+      context: .
+      dockerfile: api/Dockerfile
+    image: medical-nlp-api
+    ports:
+      - "8000:8000"
+
+  ui:
+    build:
+      context: ./streamlit
+      dockerfile: Dockerfile
+    image: medical-nlp-ui
+    ports:
+      - "8501:8501"
+    depends_on:
+      - api
